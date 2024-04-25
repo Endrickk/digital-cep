@@ -1,0 +1,16 @@
+# Arquivos de configuração do Composer
+/vendor/
+
+# Arquivos de dependências do Composer
+/composer.phar
+/composer.lock
+
+# Arquivos gerados pelo Composer
+/vendor/
+
+# Arquivos gerados pelo PHP
+/.phpunit.result.cache
+/php-cs-fixer.phar
+/phpstan.neon
+/phpstan-baseline.neon
+/phpunit.xml

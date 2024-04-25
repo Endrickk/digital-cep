@@ -1,0 +1,20 @@
+{
+    "name": "endrick/digital-cep",
+    "description": "Busca de dep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Endrick\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Endrick",
+            "email": "endrickgb@hotmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0.0"
+    }
+}
